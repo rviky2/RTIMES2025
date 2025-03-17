@@ -9,7 +9,7 @@
     </h2>
     <h2 class="text-center text-success font4 font-weight-bold mb-3">Srinivas Institute of Technology<br>
     </h2>
-    </h2 class="text-center font8 text-center fontsl">Mangaluru - 574 143, Karnataka<br>
+    </h2 class="text-center font8 text-center fontsl"><center>Mangaluru - 574 143, Karnataka<br>
     </h2>
     <div class="card border-0 bg-transparent">
         <img class="mx-auto" src="img/icon1.png" alt="">
